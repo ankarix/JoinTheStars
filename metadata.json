@@ -1,0 +1,8 @@
+
+{
+  "name": "Celestial Oracle: AI Destiny Reader",
+  "description": "A mystical AI-powered app that combines ancient wisdom with modern technology. Get daily horoscopes, and use advanced AI vision to read your face and palms for personalized future predictions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
